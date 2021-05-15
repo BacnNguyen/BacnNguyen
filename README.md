@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BacnNguyen
+- 👀 I’m interested in Computer Vision
+- 🌱 I’m currently learning opencv and Yolo framework
+- 📫 How to reach me. FB: facebook.com/bacptit
