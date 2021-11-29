@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BacnNguyen
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning opencv and Yolo framework
 - 📫 How to reach me. FB: facebook.com/bacptit
+- My major is Information System (Post and Telecommunications Institute of Technology-PTIT)
+- I'm interested in Web Development,Android Development and Computer Vision
+- I can use these programing languages: Java,Python,Kotlin,C++,Php
