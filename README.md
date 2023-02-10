@@ -2,4 +2,4 @@
 - 📫 How to reach me. FB: facebook.com/bacptit
 - My major is Information System (Post and Telecommunications Institute of Technology-PTIT)
 - I'm interested in Web Development,Android Development and Computer Vision
-- I can use these programing languages: Java,Python,Kotlin,C++,Php
+- I can use these programing languages: Java,Python,C++
